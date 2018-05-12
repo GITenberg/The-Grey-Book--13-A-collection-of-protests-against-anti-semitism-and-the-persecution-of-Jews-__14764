@@ -1,0 +1,34 @@
+_repo: The-Grey-Book--13-A-collection-of-protests-against-anti-semitism-and-the-persecution-of-Jews-__14764
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snoek, Johan M.
+    aliases:
+    - Snoek, J. M. (Johan M.)
+    - Snoek, Johan Martinus
+    birthdate: 1920
+    gutenberg_agent_id: '5673'
+    url: http://www.gutenberg.org/2009/agents/5673
+description: ''
+gutenberg_issued: '2005-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14764'
+  lccn: '77443926'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Protestant churches -- Europe'
+- !lcsh 'Christianity and other religions -- Judaism'
+- !lcsh 'Judaism -- Relations -- Christianity'
+- !lcsh 'Antisemitism'
+- !lcc 'BM'
+title: "The Grey Book\r\nA collection of protests against anti-semitism and the persecution\
+  \ of Jews issued by non-Roman Catholic churches and church leaders during Hitlers\
+  \ rule"
+url: http://www.gutenberg.org/ebooks/14764
